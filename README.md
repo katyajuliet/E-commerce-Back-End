@@ -26,6 +26,10 @@ DB_PASSWORD=''
 DB_USER=root''
 
 ```
+
+To get started, you need so sign into mysql and source db/schema.sql 
+Next, Npm run seed command and finally, start your server with npm run start or node server.js
+
 ##### Video Demonstration
 [VIDEO-1] (https://www.loom.com/share/14296c916a67444a9f0d1e2f089e13aa)
 [VIDEO-2] (https://www.loom.com/share/bbcd704fce9f432fa7584e9d0dfbe644)
