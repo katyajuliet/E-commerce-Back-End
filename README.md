@@ -27,7 +27,9 @@ DB_USER=root''
 
 ```
 ##### Video Demonstration
-[VIDEO] ()
+[VIDEO-1] (https://www.loom.com/share/14296c916a67444a9f0d1e2f089e13aa)
+[VIDEO-2] (https://www.loom.com/share/bbcd704fce9f432fa7584e9d0dfbe644)
+[VIDEO-3] (https://www.loom.com/share/07e044caf1d44fe9bd436e45eb00fa68)
 
 ###### Testing in Insomnia
 [Link](https://docs.insomnia.rest/inso-cli/introduction)
